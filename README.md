@@ -1,6 +1,6 @@
 # Hospital Patient Queue Appointment Management System
 
-A beginner-friendly C mini project based on the CIET Data Structures Lab PDF.
+A beginner-friendly C mini project based on the CIET Data Structures Lab .
 
 ## Features
 - Register patients with a unique patient ID
